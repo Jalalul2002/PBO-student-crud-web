@@ -1,0 +1,37 @@
+# PBO-student-crud-web
+
+POST MAPPING
+![POST](img/PostMapping.png) "Menambah Data Student"
+
+GET MAPPING
+![GET](img/GetMapping.png) "Menampilkan/Mengambil Semua Data Student"
+
+PUT MAPPING
+![PUT](img/UpdateStudentByID.png) "Update Data Student"
+
+GET BY ID
+![GET ID](img/GetStudentByID.png) "Menampilak/Mengambil Data Student Berdasarkan ID"
+
+DELETE BY ID
+![DELETE](img/DeleteStudentByID.png) "Menghapus Data Student Berdasarkan ID"
+
+LAYOUT HASIL
+![HASIL](img/LayoutHasil.png) "Tampilan Localhost/8080/api/student"
+
+INDEX LAYOUT
+![INDEX](img/index.png) "Tampilan INDEX"
+
+NEW STUDENT LAYOUT
+![NEW](img/new.png) "Tampilan NEW STUDENT"
+
+NEW STUDENT SUCCESS LAYOUT
+![NEW-USCCESS](img/new-success.png) "Tampilan NEW STUDENT SUCCESS"
+
+EDIT STUDENT LAYOUT
+![INDEX](img/edit-form.png) "Tampilan EDIT STUDENT"
+
+EDIT STUDENT SUCCESS LAYOUT
+![INDEX](img/edit-success.png) "Tampilan EDIT STUDENT SUCCESS"
+
+REMOVE SUCCESS LAYOUT
+![INDEX](img/remove-success.png) "Tampilan REMOVE SUCCESS LAYOUT"
