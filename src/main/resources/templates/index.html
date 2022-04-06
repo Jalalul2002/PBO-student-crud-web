@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>Student CRUD Examp</title>
 
-    <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no"
           name="viewport">
 
@@ -24,6 +23,7 @@
         <tr>
             <th scope="col">Name Depan</th>
             <th scope="col">Name Belakang</th>
+            <th scope="col">Tanggal Lahir</th>
             <th scope="col">Email</th>
             <th scope="col">Phonenumber</th>
             <th scope="col">Jurusan</th>
@@ -34,6 +34,7 @@
         <tr th:each="s : ${student}">
             <td scope="col" th:text="${s.firstName}"></td>
             <td scope="col" th:text="${s.lastName}"></td>
+            <th scope="col" th:text="${s.birthDate}"></th>
             <td scope="col" th:text="${s.email}"></td>
             <td scope="col" th:text="${s.phonenumber}"></td>
             <td scope="col" th:text="${s.jurusan}"></td>

@@ -41,6 +41,7 @@ public class StudentController {
         Student student = studentservice.findById(id).orElseThrow(() -> new StudentNotFoundException("Student with  " + id + "is Not Found!!"));
         student.setFirstName(newStd.getFirstName());
         student.setLastName(newStd.getLastName());
+        student.setBirthDate(newStd.getBirthDate());
         student.setEmail(newStd.getEmail());
         student.setPhonenumber(newStd.getPhonenumber());
         return studentservice.save(student);
