@@ -35,3 +35,19 @@ EDIT STUDENT SUCCESS LAYOUT
 
 REMOVE SUCCESS LAYOUT
 ![INDEX](img/remove-success.png) "Tampilan REMOVE SUCCESS LAYOUT"
+
+-- DB POSTGRE
+INDEX LAYOUT
+![INDEX](img/3-Awalan_postgresql.png) "Tampilan INDEX"
+
+NEW STUDENT LAYOUT
+![NEW](img/3-add_postgresql.png) "Tampilan NEW STUDENT"
+
+EDIT STUDENT LAYOUT
+![INDEX](img/3-edit_postgresql.png) "Tampilan EDIT STUDENT"
+
+EDIT STUDENT SUCCESS LAYOUT
+![INDEX](img/3-editSuccess_postgresql.png) "Tampilan EDIT STUDENT SUCCESS"
+
+REMOVE SUCCESS LAYOUT
+![INDEX](img/3-RemoveSuccess.png) "Tampilan REMOVE SUCCESS LAYOUT"
